@@ -38,6 +38,8 @@
 %\references{}
 
 \examples{
+\dontrun{
+library(drc)
 
 ## Fitting a four-parameter log-logistic model
 secalonic.m1 <- drm(rootl ~ dose, data = secalonic, fct = LL.4())
@@ -59,6 +61,6 @@ cex=1.2, cex.axis=1.2, cex.lab=1.2, lwd=2)
 plot(secalonic.L4, broken=TRUE, ylim=c(0,7), add=TRUE, type="none", lty=2, lwd=2)
 
 abline(h=coef(secalonic.L4)[3], lty=3, lwd=2)
-
+}
 }
 \keyword{datasets}

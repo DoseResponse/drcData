@@ -22,6 +22,7 @@ http://biostatistics.dkfz.de/download/mdra/MDRA_ExampleData.csv
 Clothier, R., Gomez-Lechon, M. J., Kinsner-Ovaskainen, A., Kopp-Schneider, A., O'Connor, J. E., Prieto, P., and Stanzel, S. (2013). Comparative analysis of eight cytotoxicity assays evaluated within the ACuteTox Project. Toxicology in vitro, 27(4):1347--1356.
 }
 \examples{
+\dontrun{
 data(mdra)
 
 # fit a 3-parameter log-logistic mixed model
@@ -32,5 +33,6 @@ m <- medrm(Response ~ Concentration, data=mdra, fct=LL.3(),
            
 plot(m, logx=TRUE, ndose=250, ranef=TRUE) + 
      theme_classic()
+}
 }
 \keyword{datasets}

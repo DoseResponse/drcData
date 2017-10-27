@@ -47,6 +47,8 @@
 }
 
 \examples{
+\dontrun{
+library(drc)
 
 ## Incorrect analysis using a logistic regression model
 ## (treating event times as binomial data)
@@ -125,6 +127,6 @@ points(196, 0.1, cex = 2, pch = 0)
 #nrpred <- predict(chickweed.m0b, data.frame(time=0:340), interval="confidence")
 #lines(0:340, nrpred[,2], lty=2, lwd=2, col="darkgray")
 #lines(0:340, nrpred[,3], lty=2, lwd=2, col="darkgray")
-
+}
 }
 \keyword{datasets}

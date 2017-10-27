@@ -22,8 +22,7 @@
 
 \details{
   The dataset is an example of an asymmetric dose-response curve, that is not
-  easily handled using the log-logistic or Weibull models (\code{\link{LL.4}}, \code{\link{LL.5}}, 
-  \code{\link{W1.4}} and \code{\link{W2.4}}), whereas the \code{baro5} model provides a nice fit.
+  easily handled using the log-logistic or Weibull models.
 }
 
 \source{
@@ -33,6 +32,8 @@
 }
 
 \examples{
+\dontrun{
+library(drc)
 
 ## Fitting the baro5 model
 heartrate.m1 <- drm(rate~pressure, data=heartrate, fct=baro5())
@@ -60,6 +61,6 @@ plot(pressureVector, derivativeVector, type = "l")
 ## Finding the minimum
 pressureVector[which.min(derivativeVector)]
 
-
+}
 }
 \keyword{datasets}

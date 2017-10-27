@@ -8,5 +8,5 @@ Depends: R (>= 2.0.0)
 LazyLoad: yes
 LazyData: yes
 Description: Data example add-on for the package drc.
-License: GPL-2 | file LICENCE
+License: GPL-2
 URL: http://www.r-project.org, http://www.bioassay.dk

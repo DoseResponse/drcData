@@ -35,6 +35,8 @@
 %\references{}
 
 \examples{
+\dontrun{
+library(drc)
 
 ## Fitting a model with a common control (so a single upper limit: "1")
 G.aparine.m1 <- drm(drymatter ~ dose, treatment, data = G.aparine, 
@@ -79,6 +81,6 @@ G.aparine.m3 <- drm(drymatter ~ dose, treatment, data = G.aparine,
 pmodels = data.frame(treatment, treatment, 1, treatment), fct = LL2.4())
 
 EDcomp(G.aparine.m3, c(50, 50), logBase = exp(1))
-
+}
 }
 \keyword{datasets}

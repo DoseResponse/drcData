@@ -33,11 +33,10 @@
   \bold{59},  1303--1310.
 }
 
-\seealso{
-  See the examples sections for \code{\link{drm}} and \code{\link{EDcomp}}.
-}
 
 \examples{
+\dontrun{
+library(drc)
 
 ## Fitting a log-logistic model with
 ##  common lower and upper limits
@@ -52,6 +51,6 @@ summary(S.alba.LL.4.2)
 
 ## Plotting fitted regression curves together with the data
 plot(S.alba.LL.4.2)
-
+}
 }
 \keyword{datasets}

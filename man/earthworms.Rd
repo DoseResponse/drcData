@@ -37,6 +37,8 @@
 %\references{}
 
 \examples{
+\dontrun{
+library(drc)
 
 ## Fitting a logistic regression model
 earthworms.m1 <- drm(number/total~dose, weights = total, data = earthworms,
@@ -53,6 +55,6 @@ modelFit(earthworms.m2)  # goodness-of-fit test
 ## Comparing model1 and model2 
 ## (Can the first model be reduced to the second model?)
 anova(earthworms.m1, earthworms.m2)
-
+}
 }
 \keyword{datasets}

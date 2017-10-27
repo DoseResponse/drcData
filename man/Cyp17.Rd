@@ -15,6 +15,7 @@
 
 
 \examples{
+\dontrun{
 data(Cyp17)
 # transforming the vector of observed expression 
 Cyp17$logexpression <- log(Cyp17$expression) + 5
@@ -34,6 +35,7 @@ plot(Cyp17.LL4.mixed, logx=TRUE, ranef=TRUE) +
     theme_classic()
     
 summary(Cyp17.LL4.mixed)
+}
 }
 
 

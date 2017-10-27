@@ -39,7 +39,8 @@
 }
 
 \examples{
-
+\dontrun{
+library(drc)
 
 ## Fitting the model with freely varying ED50 values
 glymet.free <- drm(rgr~dose, pct, data = glymet, 
@@ -72,7 +73,7 @@ anova(glymet.ca, glymet.hew)
 ## Plotting isobole based on the Hewlett model
 isobole(glymet.free, glymet.hew, exchange = 0.01)  
 # no improvement over concentration addition
-
+}
 }
 
 \keyword{datasets}

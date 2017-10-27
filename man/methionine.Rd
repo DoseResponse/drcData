@@ -25,8 +25,7 @@
 }
 
 \details{
-  The dataset contains a common control measurement for the two treatments. More examples using this
-  dataset are found under \code{\link{AR.2}} and \code{\link{MM.2}}.
+  The dataset contains a common control measurement for the two treatments.
 }
 
 \source{
@@ -41,6 +40,8 @@
 %}
 
 \examples{
+\dontrun{
+library(drc)
 
 ## Fitting model with constraint on one parameter 
 met.ar.m1 <- drm(gain~dose, product, data = methionine, 
@@ -51,6 +52,6 @@ plot(met.ar.m1, xlim=c(0,0.3), ylim=c(1450, 1800))
 abline(h=1700, lty=1)
 
 summary(met.ar.m1)
-
+}
 }
 \keyword{datasets}

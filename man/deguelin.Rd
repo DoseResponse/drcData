@@ -38,6 +38,8 @@
 }
 
 \examples{
+\dontrun{
+library(drc)
 
 ## Log-logistic fit
 deguelin.m1 <- drm(r/n~dose, weights=n, data=deguelin, fct=LL.2(), type="binomial")
@@ -54,7 +56,7 @@ lines(1:60, predict(deguelin.m2, newdata=data.frame(dose=1:60)), col = 2, lty = 
 lines(1:60, 0.95*predict(deguelin.m2, 
 newdata=data.frame(dose=1:60))+0.05*predict(deguelin.m1, newdata=data.frame(dose=1:60), se = FALSE),
 col = 3, lty=3)
-
+}
 }
 
 \keyword{datasets}

@@ -34,11 +34,14 @@
 %\references{}
 
 \examples{
+\dontrun{
+library(drc)
 
 lepidium.m1 <- drm(weight~conc, data=lepidium, fct = LL.4())
 
 modelFit(lepidium.m1)
 
 plot(lepidium.m1, type = "all", log = "")
+}
 }
 \keyword{datasets}

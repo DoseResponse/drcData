@@ -36,12 +36,15 @@
 %\references{}
 
 \examples{
+\dontrun{
+library(drc)
 
 nasturtium.m1 <- drm(weight~conc, data=nasturtium, fct = LL.3())
 
 modelFit(nasturtium.m1)
 
 plot(nasturtium.m1, type = "all", log = "", xlab = "Concentration (g/ha)", ylab = "Weight (mg)")
+}
 }
 
 \keyword{datasets}

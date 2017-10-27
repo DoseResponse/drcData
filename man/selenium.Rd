@@ -35,6 +35,8 @@
 
 
 \examples{
+\dontrun{
+library(drc)
 
 ## Analysis similar to what is proposed in Jeske et al (2009)
 ##  but simply using existing functionality in "drc"
@@ -71,6 +73,6 @@ anova(sel.m3, sel.m1)  # 123.56
 # not too far from the value 138.45 reported in the paper
 # (note that the estimation procedure is not exactly the same)
 # (and we use the log-logistic model instead of the log-normal model)
-
+}
 }
 \keyword{datasets}
