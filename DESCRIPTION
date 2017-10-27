@@ -1,8 +1,8 @@
-Package: drc
+Package: drcData
 Version: 1.0-0
 Date: 2017-10-27
 Title: Dose-Response Data
-Author: Christian Ritz <ritz@bioassay.dk>, Jens C. Strebig <streibig@bioassay.dk>
+Author: Christian Ritz <ritz@bioassay.dk>, Jens C. Strebig <streibig@bioassay.dk>, Daniel Gerhard <daniel.gerhard@canterbury.ac.nz>
 Maintainer: Christian Ritz <ritz@bioassay.dk>
 Depends: R (>= 2.0.0)
 LazyLoad: yes
