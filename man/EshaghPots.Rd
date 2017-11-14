@@ -24,7 +24,7 @@ myosuroides)
 }
 \references{Keshtkar E, Mathiassen SK, Beffa R, and Kudsk P (2017), 
 Seed Germination and Seedling Emergence of Blackgrass (Alopecurus
-myosuroides) as Affected by Non–Target-Site Herbicide Resistance���􀀤􀀡(not yet pages)􀀣􀀍􀀄􀀄􀀖􀀠􀀛􀀃􀀠􀀢􀀙􀀄􀀆􀀅􀀃􀀆􀀅􀀆􀀌􀀄􀀧􀀣􀀕􀀃􀀇􀀅􀀆􀀌􀀃􀀉􀀉
+myosuroides) as Affected by Non-Target-Site Herbicide Resistance (not yet paged)
 %%  ~~ possibly secondary sources and usages ~~
 }
 \examples{
