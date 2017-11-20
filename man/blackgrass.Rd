@@ -1,5 +1,5 @@
-\name{EshagPots}
-\alias{EshagPots}
+\name{blackgrass}
+\alias{blackgrass}
 \docType{data}
 \title{Seedling Emergence of Blackgrass (Alopecurus
 myosuroides)
