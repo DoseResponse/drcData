@@ -2,7 +2,9 @@ Package: drcData
 Version: 1.0-0
 Date: 2017-10-27
 Title: Dose-Response Data
-Author: Christian Ritz <ritz@bioassay.dk>, Jens C. Strebig <streibig@bioassay.dk>, Daniel Gerhard <daniel.gerhard@canterbury.ac.nz>
+Authors@R: c(person("Christian" , "Ritz", role = c("aut", "cre"), email="ritz@bioassay.dk"), 
+             person("Jens", "Strebig", middel="C.", email="streibig@bioassay.dk", role = "aut"),
+             person("Daniel", "Gerhard", eamil="daniel.gerhard@canterbury.ac.nz", role = "aut"))
 Maintainer: Christian Ritz <ritz@bioassay.dk>
 Depends: R (>= 2.0.0)
 LazyLoad: yes
@@ -10,3 +12,4 @@ LazyData: yes
 Description: Data example add-on for the package drc.
 License: GPL-2
 URL: http://www.r-project.org, http://www.bioassay.dk
+RoxygenNote: 6.1.1
