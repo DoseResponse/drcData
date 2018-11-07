@@ -1,0 +1,28 @@
+---
+output: 
+  github_document:
+    html_preview: false
+---
+
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/drcData)](https://cran.r-project.org/package=drcData)
+[![Build Status](https://travis-ci.org/DoseResponse/drcData.svg?branch=master)](https://travis-ci.org/DoseResponse/drcData)
+[![Downloads](https://cranlogs.r-pkg.org/badges/drcData)](https://cranlogs.r-pkg.org/)
+ 
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+# drcData
+
+## Installation
+
+```{r, eval = FALSE}
+## You can install drcData from GitHub
+# install.packages("devtools")
+devtools::install_github("DoseResponse/drcData")
+```
