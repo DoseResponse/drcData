@@ -11,8 +11,17 @@
 \format{
   A data frame with 2752 observations on the following 11?? variables.
   \describe{
-    \item{\code{x}}{a numeric vector}
-    \item{\code{y}}{a numeric vector}
+    \item{\code{Exp}}{a numeric vector}
+    \item{\code{Temp}}{a numeric vector}
+    \item{\code{Popu}}{a numeric vector}
+    \item{\code{Bio}}{a factor with two levels}
+    \item{\code{Depth}}{a numeric vector}
+    \item{\code{Rep}}{a numeric vector}
+    \item{\code{Start.Day}}{a numeric vector}
+    \item{\code{End.Day}}{a numeric vector}
+    \item{\code{Ger}}{a numeric vector}
+    \item{\code{Accum.Ger}}{a numeric vector}
+    \item{\code{TotalSeed}}{a numeric vector}
   }
 }
 \details{
