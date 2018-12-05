@@ -4,7 +4,7 @@
 
 \docType{data}
 
-\title{Potency of two herbicides}
+\title{Damage of lymphocyte cells}
 
 \description{
   For each of 13 dose levels the number of damaged lymphocyte cells were reported. Each dose level consisted of a total of 2000 cells.
