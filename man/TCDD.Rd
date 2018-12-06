@@ -2,7 +2,7 @@
 
 \alias{TCDD}
 
-\docType{TCDD}
+\docType{data}
 
 \title{Liver tumor incidence}
 
