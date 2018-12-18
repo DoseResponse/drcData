@@ -28,7 +28,7 @@ G. A. Chapman, D. L. Denton, and J. M. Lazorchak (1995). Short-term methods for 
 the chronic toxicity of effluents and receiving waters to west coast marine and estuarine
 organisms. 
 }
-}
+
 
 
 \examples{

@@ -28,7 +28,7 @@
 Bentley, K. S. and Kirkland, D. and Murphy, M. and Marshall, R. (2000). Evaluation of   thresholds for benomyl- and carbendazim-induced aneuploidy in cultured human lymphocytes using fluorescence in situ hybridization, \emph{Mutation Research/Genetic Toxicology and Environmental Mutagenesis}, \bold{464}, 41--51.
   
 }
-}
+
 
 
 \examples{

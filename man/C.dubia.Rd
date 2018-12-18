@@ -29,7 +29,7 @@ a water flea, C. dubia.
 A. J. Bailer and J. T. Oris (1997). Estimating inhibition concentrations for different response scales
 using generalized linear models. Environmental Toxicology and Chemistry, \bold{16}:1554--1559.
 }
-}
+
 
 
 \examples{

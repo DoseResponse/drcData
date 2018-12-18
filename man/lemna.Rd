@@ -2,7 +2,7 @@
 
 \alias{lemna}
 
-\docType{lemna}
+\docType{data}
 
 \title{Lemna ...}
 

@@ -26,7 +26,7 @@
 \source{
 Beland, F. A. and Dooley, K. L. and Hansen, E. B. and Sheldon, W. G. (1995). Six-month toxicity comparison of the antituberculosis drugs aconiazide and isoniazid in fischer 344 rats. Journal of the American College of Toxicology, \bold{14(4)}:328--342.
 }
-}
+
 
 
 \examples{
