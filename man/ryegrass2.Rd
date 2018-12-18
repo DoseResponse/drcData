@@ -1,0 +1,37 @@
+\name{ryegrass2}
+
+\alias{ryegrass2}
+
+\docType{data}
+
+\title{}
+
+\description{
+  
+}
+
+\usage{data(ryegrass2)}
+
+\format{
+  A data frame with 27 observations on the following 4 variables.
+  \describe{
+    \item{\code{Dose}}{a numeric vector}
+    \item{\code{wheat}}{a numeric vector}
+    \item{\code{weed}}{a numeric vector}
+    \item{\code{curve}}{a categorial vector}
+  }
+}
+
+\details{
+  
+}
+
+\source{
+  
+}
+
+%\references{}
+
+\examples{
+}
+\keyword{datasets}
