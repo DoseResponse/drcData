@@ -17,7 +17,8 @@
   A data frame with 42 observations on the following 2 variables.
   \describe{
     \item{\code{conc}}{a numeric vector of concentrations (g/ha)}
-    \item{\code{weight}}{a numeric vector of plant weight (mg) after 3 weeks' growth}
+    \item{\code{wt}}{a numeric vector of plant weight (mg) after 3 weeks' growth}
+    \item{\code{rep}}{a numeric vector of replicates}
   }
 }
 
