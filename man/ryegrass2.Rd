@@ -6,9 +6,7 @@
 
 \title{Ryegrass}
 
-\description{
-  
-}
+\description{ryegrass2 data.}
 
 \usage{data(ryegrass2)}
 
@@ -22,16 +20,4 @@
   }
 }
 
-\details{
-  
-}
-
-\source{
-  
-}
-
-%\references{}
-
-\examples{
-}
 \keyword{datasets}

@@ -7,9 +7,7 @@
 \title{Offsprings resulting from a toxicity test}
 
 \description{
-Results from a toxicity test with seven different concentrations of waste water. Results were reported as number ofsprings of 
-a water flea, C. dubia.
-
+Results from a toxicity test with seven different concentrations of waste water. Results were reported as number ofsprings of a water flea, C. dubia.
 }
 
 \usage{data(C.dubia)}
@@ -21,9 +19,6 @@ a water flea, C. dubia.
     \item{\code{number}}{a numeric vector}
   }
 }
-\details{
-
-}
 
 \source{
 A. J. Bailer and J. T. Oris (1997). Estimating inhibition concentrations for different response scales
@@ -31,8 +26,4 @@ using generalized linear models. Environmental Toxicology and Chemistry, \bold{1
 }
 
 
-
-\examples{
-
-}
 \keyword{datasets}

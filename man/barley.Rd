@@ -4,11 +4,9 @@
 
 \docType{data}
 
-\title{Barley...}
+\title{Barley}
 
-\description{
-   
-}
+\description{Barley data.}
 
 \usage{data(barley)}
 
@@ -19,16 +17,6 @@
     \item{\code{weight}}{a numeric vector}
     }
 }
-\details{
-
-}
-
-\source{
-}
 
 
-
-\examples{
-
-}
 \keyword{datasets}

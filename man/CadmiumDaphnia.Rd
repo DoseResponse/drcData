@@ -24,17 +24,4 @@
   }
 }
 
-\details{
-
-}
-
-\source{
-
-}
-
-\references{
-
-}
-
-
 \keyword{datasets}

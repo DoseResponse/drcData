@@ -4,11 +4,9 @@
 
 \docType{data}
 
-\title{arbovirus...}
+\title{arbovirus}
 
-\description{
-  
-}
+\description{arbovirus data.}
 
 \usage{data(arbovirus)}
 
@@ -23,16 +21,4 @@
   }
 }
 
-\details{
-  
-}
-
-\source{
-  
-}
-
-%\references{}
-
-\examples{
-}
 \keyword{datasets}

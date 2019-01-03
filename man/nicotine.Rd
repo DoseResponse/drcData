@@ -4,11 +4,9 @@
 
 \docType{data}
 
-\title{nicotine...}
+\title{nicotine}
 
-\description{
-  
-}
+\description{nicotine data.}
 
 \usage{data(nicotine)}
 
@@ -21,16 +19,4 @@
   }
 }
 
-\details{
-  
-}
-
-\source{
-  
-}
-
-%\references{}
-
-\examples{
-}
 \keyword{datasets}

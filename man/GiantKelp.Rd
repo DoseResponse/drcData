@@ -19,9 +19,6 @@
     \item{\code{tubeLength}}{a numeric vector giving the length of the germination tube (mm)}
     }
 }
-\details{
-
-}
 
 \source{
 G. A. Chapman, D. L. Denton, and J. M. Lazorchak (1995). Short-term methods for estimating
@@ -30,8 +27,4 @@ organisms.
 }
 
 
-
-\examples{
-
-}
 \keyword{datasets}

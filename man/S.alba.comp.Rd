@@ -39,7 +39,4 @@
 }
 
 
-\examples{
-
-}
 \keyword{datasets}

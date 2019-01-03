@@ -4,11 +4,9 @@
 
 \docType{data}
 
-\title{chlorac...}
+\title{chlorac}
 
-\description{
-  
-}
+\description{chlorac data.}
 
 \usage{data(chlorac)}
 
@@ -21,16 +19,5 @@
   }
 }
 
-\details{
-  
-}
 
-\source{
-  
-}
-
-%\references{}
-
-\examples{
-}
 \keyword{datasets}

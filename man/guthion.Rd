@@ -4,11 +4,9 @@
 
 \docType{data}
 
-\title{guthion...}
+\title{guthion}
 
-\description{
-  
-}
+\description{guthion data.}
 
 \usage{data(guthion)}
 
@@ -24,16 +22,4 @@
   }
 }
 
-\details{
-  
-}
-
-\source{
-  
-}
-
-%\references{}
-
-\examples{
-}
 \keyword{datasets}

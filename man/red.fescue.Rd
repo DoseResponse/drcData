@@ -4,11 +4,9 @@
 
 \docType{data}
 
-\title{Red fescue...}
+\title{Red fescue}
 
-\description{
-  
-}
+\description{red.fescue data.}
 
 \usage{data(red.fescue)}
 
@@ -21,16 +19,4 @@
   }
 }
 
-\details{
-  
-}
-
-\source{
-  
-}
-
-%\references{}
-
-\examples{
-}
 \keyword{datasets}

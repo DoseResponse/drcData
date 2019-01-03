@@ -4,11 +4,9 @@
 
 \docType{data}
 
-\title{Chlordan...}
+\title{Chlordan}
 
-\description{
-  
-}
+\description{chlordan data.}
 
 \usage{data(chlordan)}
 
@@ -22,16 +20,4 @@
   }
 }
 
-\details{
-  
-}
-
-\source{
-  
-}
-
-%\references{}
-
-\examples{
-}
 \keyword{datasets}

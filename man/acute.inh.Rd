@@ -4,11 +4,9 @@
 
 \docType{data}
 
-\title{Acute inhalation...}
+\title{Acute inhalation}
 
-\description{
-  
-}
+\description{acute.inh data.}
 
 \usage{data(acute.inh)}
 
@@ -21,16 +19,7 @@
   }
 }
 
-\details{
-  
-}
 
-\source{
-  
-}
 
-%\references{}
 
-\examples{
-}
 \keyword{datasets}

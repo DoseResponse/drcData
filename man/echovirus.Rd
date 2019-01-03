@@ -26,7 +26,7 @@
 \source{
    H. Moon, S. B. Kim, J. J. Chen, N. I. George, and R. L. Kodell (2013). Model uncertainty
 and model averaging in the estimation of infectious doses for microbial pathogens. Risk
-Analysis, \bold{33(2)}:220–231.
+Analysis, \bold{33(2)}:220-231.
 }
 
 %\references{}

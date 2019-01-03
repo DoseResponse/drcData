@@ -4,11 +4,9 @@
 
 \docType{data}
 
-\title{Lemna ...}
+\title{Lemna}
 
-\description{
-  Data are from .
-}
+\description{ Data are from .}
 
 \usage{data(lemna)}
 
@@ -20,16 +18,4 @@
     }
 }
 
-\details{
-  
-}
-
-\source{
-  
-}
-
-
-\examples{
-
-}
 \keyword{datasets}
