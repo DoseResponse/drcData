@@ -13,13 +13,10 @@
 \usage{data(red.fescue)}
 
 \format{
-  A data frame with 50 observations on the following 5 variables.
+  A data frame with 26 observations on the following 2 variables.
   \describe{
-    \item{\code{Species}}{a categorial vector}
     \item{\code{Dose}}{a numeric vector}
-    \item{\code{Time}}{a categorical vector}
     \item{\code{Biomass}}{a numeric vector}
-    \item{\code{Curve}}{a categorial vector}
   }
 }
 
