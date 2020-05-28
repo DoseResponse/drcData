@@ -22,9 +22,7 @@
     \item{\code{TotalSeed}}{a numeric vector}
   }
 }
-\references{Keshtkar E, Mathiassen SK, Beffa R, and Kudsk P (2017), 
-Seed Germination and Seedling Emergence of Blackgrass (Alopecurus
-myosuroides) as Affected by Non-Target-Site Herbicide Resistance (not yet paged)
+\references{Keshtkar, E., Mathiassen, S. K., Beffa, R., Kudsk, P. (2017). Seed Germination and Seedling Emergence of Blackgrass (Alopecurus myosuroides) as Affected by Non-Target-Site Herbicide Resistance. Weed Science, 65, 732-742. https://doi.org/10.1017/wsc.2017.44
 %%  ~~ possibly secondary sources and usages ~~
 }
 
