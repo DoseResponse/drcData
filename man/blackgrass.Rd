@@ -7,7 +7,7 @@
 \usage{data("blackgrass")}
 
 \format{
-  A data frame with 2752 observations on the following 11?? variables.
+  A data frame with 2752 observations on the following 12 variables.
   \describe{
     \item{\code{Exp}}{a numeric vector}
     \item{\code{Temp}}{a numeric vector}
@@ -20,6 +20,7 @@
     \item{\code{Ger}}{a numeric vector}
     \item{\code{Accum.Ger}}{a numeric vector}
     \item{\code{TotalSeed}}{a numeric vector}
+    \item{\code{Pot}}{a numeric vector}
   }
 }
 \references{Keshtkar, E., Mathiassen, S. K., Beffa, R., Kudsk, P. (2017). Seed Germination and Seedling Emergence of Blackgrass (Alopecurus myosuroides) as Affected by Non-Target-Site Herbicide Resistance. Weed Science, 65, 732-742. https://doi.org/10.1017/wsc.2017.44
