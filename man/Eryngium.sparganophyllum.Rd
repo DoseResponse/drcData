@@ -1,8 +1,8 @@
 \name{Eryngium.sparganophyllum}
 \alias{Eryngium.sparganophyllum}
 \docType{data}
-\title{}
-\description{}
+\title{Something}
+\description{Something else}
 
 \usage{data("Eryngium.sparganophyllum")}
 
