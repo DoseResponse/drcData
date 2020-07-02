@@ -1,5 +1,5 @@
 Package: drcData
-Version: 1.1-0
+Version: 1.1-1
 Date: 2020-07-02
 Title: Dose-Response Data
 Authors@R: c(person("Christian" , "Ritz", role = c("aut", "cre"), email="ritz@bioassay.dk"), 
