@@ -25,7 +25,7 @@
 
 \details{
 Imidacloprid is a widely used insecticide. In a recent study potential synergistic effects on mortality of honey bees exposed to the insectide in binary mixtures with seven pesticides from different classes: acephate, λ-cyhalothrin, oxamyl, tetraconazole, sulfoxaflor, glyphosate, and clothianidin were investigated. Bees were reared in cages (25 insects per cage), with three cages per treatment group, and exposed to the mixture treatments for 48h. Mortality after 48h was the response. 
-
+}
 \source{
 Data were retrieved from PLoS ONE repository.
 }

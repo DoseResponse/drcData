@@ -8,7 +8,6 @@
 
 \description{Germination data from an experiments investigating the effect of different concentration of gibberellic acid on germination of Eryngium sparganophyllum seeds. Two datasets are provided: one resembling how data are entered in the first place ("Eryngium.sparganophyllum0") and one formatted and ready-to-use for the statistical analysis ("Eryngium.sparganophyllum")}
 
-\usage{Eryngium.sparganophyllum0}
 \usage{Eryngium.sparganophyllum}
 
 \format{
